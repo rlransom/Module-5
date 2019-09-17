@@ -1,7 +1,8 @@
 # Module 5: Transforming Data in R
 
-**Part 1: Work through [R4DS Chapter 5, Data transformation**](https://r4ds.had.co.nz/transform.html)
-Optional: Watch the tutorial video on working with pipes.
+**Part 1: Work through R4DS Chapter 5, Data transformation**
+- Link to [R4DS Chapter 5, Data transformation](https://r4ds.had.co.nz/transform.html)
+- Optional: Watch the tutorial video on working with pipes.
 
 **Part 2: Watch the Exploratory Data Analysis video and follow along with the exercise**
 
