@@ -20,7 +20,7 @@ Happy coding!
 
 - Exercise 3: [Complete 1-2](https://datacarpentry.org/semester-biology/exercises/Dplyr-fix-the-code-R/). 
 
-- Exercise 4: [Complete 1-5](https://datacarpentry.org/semester-biology/exercises/Portal-data-manip-pipes-R/). Remember to use `read_csv()` instead of `read.csv()`. The data file is already included in the data subdirectory: `surveys.csv`
+- Exercise 4: [Complete 1-5](https://datacarpentry.org/semester-biology/exercises/Portal-data-manip-pipes-R/). Remember to use `read_csv()` instead of `read.csv()`. The data file is already included in the data subdirectory: `surveys.csv`. Note that the each row of the `surveys.csv` dataset corresponds to an individual organism, and the weights provided in the data are in **grams**.
 
 These exercises are directly from [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/) by Ethan White
 and Zachary Brym. Used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Material presented in this module is not endorsed by the licensors.
