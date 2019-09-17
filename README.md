@@ -1,6 +1,11 @@
 # Module 5: Transforming Data in R
 
-**Exercises:**
+**Part 1: Work through [R4DS Chapter 5, Data transformation**](https://r4ds.had.co.nz/transform.html)
+Optional: Watch the tutorial video on working with pipes.
+
+**Part 2: Watch the Exploratory Data Analysis video and follow along with the exercise**
+
+**Part 3: Complete homework exercises**
 
 The following exercises should be completed in a R script. You will not be submitting this R script for a grade, but these exercises and the code you prepare to work through the exercises **will** be the focus of a quiz question(s).  
 
